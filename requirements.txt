@@ -1,0 +1,6 @@
+googletrans==4.0.0-rc1
+pytz==2020.5
+python-lambda-local==0.1.12
+Telethon==1.19.0
+configparser==5.0.1
+requests==2.25.1
